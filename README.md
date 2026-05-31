@@ -20,8 +20,11 @@ O conjunto de dados contém informações relacionadas a:
 
 Tecnologias Utilizadas:
 -Python
+
 -Pandas
+
 -NumPy
+
 -Matplotlib
 
 Metodologia:
