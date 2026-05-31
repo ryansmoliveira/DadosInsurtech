@@ -8,14 +8,20 @@ Problema de Negócio:
 Seguradoras precisam estimar o risco associado a diferentes regiões para definir preços adequados e reduzir exposição financeira.
 
 Neste contexto, a análise busca responder questões como:
+
 -Quais regiões apresentam maior incidência de ocorrências?
+
 -Existem áreas significativamente fora do padrão?
+
 -Existe relação entre diferentes tipos de crime?
+
 -Como os dados podem auxiliar a avaliação de risco territorial?
 
 O conjunto de dados contém informações relacionadas a:
 -Roubo de celulares
+
 -Roubo a transeuntes
+
 -Localização geográfica das ocorrências
 
 Tecnologias Utilizadas:
@@ -30,17 +36,22 @@ Tecnologias Utilizadas:
 
 Metodologia:
 1. Tratamento dos Dados:
+2. 
 -Limpeza dos dados
+
 -Verificação de inconsistências
+
 -Padronização de variáveis
 
 3. Análise Exploratória:
 -Estatísticas descritivas
+
 -Distribuições
+
 -Identificação de padrões
 
-4. Detecção de Outliers:
+5. Detecção de Outliers:
 -Foi utilizada a metodologia IQR para identificar regiões com comportamento significativamente diferente da média observada.
 
-5. Correlação:
+6. Correlação:
 -Análise da relação entre roubos de celulares e roubos a transeuntes.
