@@ -44,6 +44,7 @@ Metodologia:
 -Padronização de variáveis
 
 2. Análise Exploratória:
+
 -Estatísticas descritivas
 
 -Distribuições
@@ -51,7 +52,9 @@ Metodologia:
 -Identificação de padrões
 
 3. Detecção de Outliers:
+
 -Foi utilizada a metodologia IQR para identificar regiões com comportamento significativamente diferente da média observada.
 
-4. Correlação:
+5. Correlação:
+
 -Análise da relação entre roubos de celulares e roubos a transeuntes.
