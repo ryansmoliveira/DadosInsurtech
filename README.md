@@ -19,6 +19,7 @@ O conjunto de dados contém informações relacionadas a:
 -Localização geográfica das ocorrências
 
 Tecnologias Utilizadas:
+
 -Python
 
 -Pandas
