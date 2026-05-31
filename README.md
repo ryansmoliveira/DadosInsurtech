@@ -36,22 +36,22 @@ Tecnologias Utilizadas:
 
 Metodologia:
 1. Tratamento dos Dados:
-2. 
--Limpeza dos dados
+
+-Limpeza dos dados:
 
 -Verificação de inconsistências
 
 -Padronização de variáveis
 
-3. Análise Exploratória:
+2. Análise Exploratória:
 -Estatísticas descritivas
 
 -Distribuições
 
 -Identificação de padrões
 
-5. Detecção de Outliers:
+3. Detecção de Outliers:
 -Foi utilizada a metodologia IQR para identificar regiões com comportamento significativamente diferente da média observada.
 
-6. Correlação:
+4. Correlação:
 -Análise da relação entre roubos de celulares e roubos a transeuntes.
